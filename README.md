@@ -10,3 +10,7 @@ are unlocked. The project allows to perform following operations:
 3)Deposit
 4)Transfer
 5)Quit
+
+
+https://user-images.githubusercontent.com/85325733/204094354-cf407487-16e6-4740-8359-df07a40b5446.mp4
+
